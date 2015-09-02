@@ -1,5 +1,6 @@
 package com.aol.challenge.Main;
 
+
 import java.util.Scanner;
 
 import org.springframework.context.ApplicationContext;
